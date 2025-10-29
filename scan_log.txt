@@ -1,0 +1,29 @@
+Scan Report:
+Scanned folder: C:\Users\jonca\Downloads\NOT\HTML\New folder
+Total signatures loaded: 4
+Scan date: 2025-10-17T14:07:23.742686500
+
+virus.txt.txt [INFECTED]
+
+------------------------------------------
+Scan Report:
+Scanned folder: C:\Users\jonca\Downloads\NOT\HTML\New folder
+Total signatures loaded: 4
+Scan date: 2025-10-17T14:22:58.891018400
+
+
+------------------------------------------
+Scan Report:
+Scanned folder: C:\Users\jonca\Downloads\NOT\HTML\New folder
+Total signatures loaded: 4
+Scan date: 2025-10-17T14:24:41.221380100
+
+
+------------------------------------------
+Scan Report:
+Scanned folder: C:\Users\jonca\OneDrive\Desktop
+Total signatures loaded: 4
+Scan date: 2025-10-22T11:07:17.942569300
+
+
+------------------------------------------
